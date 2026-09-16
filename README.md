@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lab10
 ==============================================================================================================================
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-natthanicha123-55&color=ff69b4)
 
 <img
 src= "https://s.isanook.com/ca/0/ui/281/1405824/03spongebob_xp-videoSixteenByNineJumbo1600.jpg" width="100" height="50" />
